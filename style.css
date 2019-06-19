@@ -1,0 +1,26 @@
+
+nav{
+	font-family: Gotham Book;
+}
+
+
+.btn-outline-success{
+	background-color: #2079AE;
+	color: white;
+	border: white;
+}
+
+.btn-outline-success:hover{
+	background-color: #013D61;
+
+}
+
+.dropdown-item:hover{
+	background-color: #2079AE;
+	color: white;
+}
+
+.dropdown-menu{
+	border-color: #2079AE;
+}
+
